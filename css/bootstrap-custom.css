@@ -1,0 +1,11 @@
+. bg primary {
+    background-color: #0000FF;
+    color: #FFFFFF;
+    border-color: #0000FF;
+  }
+  
+  . bg secondary {
+    background-color: #00FF00;
+    color: #000000;
+    border-color: #00FF00;
+  }
